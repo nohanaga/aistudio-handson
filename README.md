@@ -12,3 +12,6 @@ Prompt flow によるプロンプトのテストと評価ハンズオン
 1. [プロンプトの評価](https://qiita.com/nohanaga/items/ceccd4678f9c22fb7a0b)
 1. [Retrieval-Augmented Generation(RAG) フローの構築と評価](https://qiita.com/nohanaga/items/9cda65aee671b0b2ef74)
 1. [Function calling フローの構築と評価](https://qiita.com/nohanaga/items/ffaaf6383fc77c77808a)
+
+### デプロイ
+1. [Streamlit UI 実装](https://github.com/nohanaga/streamlit-aistudio-sample)
