@@ -16,3 +16,6 @@ Prompt flow によるプロンプトのテストと評価ハンズオン
 ### デプロイ
 1. [Streamlit UI 実装](https://github.com/nohanaga/streamlit-aistudio-sample)
 1. [Chainlit UI 実装](https://github.com/nohanaga/chainlit-aistudio-sample)
+
+# テストデータ
+[hanapedia.pdf](./hanapedia.pdf)
