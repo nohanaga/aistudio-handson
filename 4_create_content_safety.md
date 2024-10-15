@@ -3,7 +3,7 @@
 > [!WARNING]
 > Azure AI Content Safety の**コンテンツフィルタやブロックリストなどの一部の機能は Azure OpenAI Service に統合されていますのでフル機能が不要であれば作成する必要はありません。**。今回は Azure AI Studio 上からすべての機能のデモを実施するために別途 Azure AI Content Safety リソースを作成します。
 
-1. [Azure AI Content Safety Azure リソース](https://aka.ms/acs-create)を作成します。要事項を以下のように入力して「確認および作成」をクリックします。※今回は「East US 2」リージョンに作成します。
+1. [Azure AI Content Safety Azure リソース](https://aka.ms/acs-create)を作成します。必要事項を以下のように入力して「確認および作成」をクリックします。※今回は「East US 2」リージョンに作成します。
 
     ![](images/4_003.png)
 
@@ -13,7 +13,7 @@
 
     ![](images/4_004.png)
 
-    > [!INFO]
+    > [!NOTE]
     > Azure AI Content Safety は [Content Safety API](https://ms.portal.azure.com/verifyLink?href=https%3A%2F%2Faka.ms%2Facs-api&id=Microsoft_Azure_ProjectOxford) および [Content Safety Studio](https://ms.portal.azure.com/verifyLink?href=https%3A%2F%2Faka.ms%2Facsstudio&id=Microsoft_Azure_ProjectOxford) から起動できますが、Azure AI Studio とも統合されているため、今回は Azure AI Studio 上から操作します。
 
 1. リソースの作成が完了したら Content Safety リソースへ移動し、左メニューの「アクセス制御(IAM)」から上部「＋追加」ドロップダウンを選択し、「ロール割り当ての追加」をクリックします。
