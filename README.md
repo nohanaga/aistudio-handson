@@ -6,6 +6,7 @@ Prompt flow によるプロンプトのテストと評価ハンズオン
 1. [Azure AI Studio ハブの作成](./1_create_hub.md)
 1. [Azure AI Studio プロジェクトの作成](./2_create_project.md)
 1. [MaaS サーバーレス API の作成](./3_create_maas.md)
+1. [Azure AI Content Safety のテスト](./4_create_content_safety.md)(オプション)
 
 ### Prompt flow によるプロンプトのテストと評価
 1. [プロンプトのテスト](https://qiita.com/nohanaga/items/a261b5b15bd8135650ab)
