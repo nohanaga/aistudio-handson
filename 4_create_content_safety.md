@@ -13,8 +13,8 @@
 
     ![](images/4_004.png)
 
-    > [!NOTE]
-    > Azure AI Content Safety は [Content Safety API](https://ms.portal.azure.com/verifyLink?href=https%3A%2F%2Faka.ms%2Facs-api&id=Microsoft_Azure_ProjectOxford) および [Content Safety Studio](https://ms.portal.azure.com/verifyLink?href=https%3A%2F%2Faka.ms%2Facsstudio&id=Microsoft_Azure_ProjectOxford) から起動できますが、Azure AI Studio とも統合されているため、今回は Azure AI Studio 上から操作します。
+> [!NOTE]
+> Azure AI Content Safety は [Content Safety API](https://ms.portal.azure.com/verifyLink?href=https%3A%2F%2Faka.ms%2Facs-api&id=Microsoft_Azure_ProjectOxford) および [Content Safety Studio](https://ms.portal.azure.com/verifyLink?href=https%3A%2F%2Faka.ms%2Facsstudio&id=Microsoft_Azure_ProjectOxford) から起動できますが、Azure AI Studio とも統合されているため、今回は Azure AI Studio 上から操作します。
 
 1. リソースの作成が完了したら Content Safety リソースへ移動し、左メニューの「アクセス制御(IAM)」から上部「＋追加」ドロップダウンを選択し、「ロール割り当ての追加」をクリックします。
 
@@ -44,8 +44,8 @@
 
     ![](images/4_006.png)
 
-    > [!WARNING]
-    > サンプルを選択する前に、各サンプルのコンテンツの一部が不快感を与える可能性があることにご注意ください。
+> [!WARNING]
+> サンプルを選択する前に、各サンプルのコンテンツの一部が不快感を与える可能性があることにご注意ください。
 
 1. このスタジオでは様々な種類のテキストコンテンツについてのフィルタリングテストを試すことができます。「安全なコンテンツ」ボックスをクリックしてサンプルテキストをロードして「テストの実行」をクリックします。
 
